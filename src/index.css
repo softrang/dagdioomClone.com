@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root{
+  width: 1348px;
+   margin: 0 auto;
+   background-color: rgb(247, 245, 245);
+    
+
+    
+}
+body{
+   
+    margin: 0 auto;
+    padding: 0px;
+    background-color:black
+   
+   
+   
+}
